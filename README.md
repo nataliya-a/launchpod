@@ -1,2 +1,2 @@
-# launchpod
+# launchpod 🚀
 AI motivation speech app
